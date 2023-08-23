@@ -13,7 +13,7 @@
 - 👯 Looking to learn on projects that are using Python for data science.
 - ⭐ 2023's Objective: improve my organization in general  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love videogames, data science and chilling in rainy days
-- <iframe src="https://giphy.com/embed/3oEjHMD6oHHzeUh9qo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/latinoji-chile-latino-latinos-3oEjHMD6oHHzeUh9qo">via GIPHY</a></p>  
+- <img src="https://giphy.com/embed/3oEjHMD6oHHzeUh9qo" width="40" height="40">
 
 
 #### Languages and Tools 
