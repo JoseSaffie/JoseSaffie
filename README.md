@@ -5,7 +5,7 @@
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
 
-<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank" rel="noopener noreferrer">José Saffie V.</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/jos%C3%A9-ignacio-a593a3251/" target="_blank" rel="noopener noreferrer">José Saffie V.</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
 <a href="https://github.com/JoseSaffie?tab=repositories"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
@@ -13,11 +13,14 @@
 - 👯 Looking to learn on projects that are using Python for data science.
 - ⭐ 2023's Objective: improve my organization in general  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love videogames, data science and chilling in rainy days
+
+<!-- <p>
+
 - <img src="https://giphy.com/embed/3oEjHMD6oHHzeUh9qo" width="40">
-
-
+-->
+<!-- <p>
  ![Bandera de Chile]("https://giphy.com/embed/3oEjHMD6oHHzeUh9qo")
-
+-->
 #### Languages and Tools 
 <p>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="Python"></code>
