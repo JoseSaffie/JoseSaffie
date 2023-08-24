@@ -34,14 +34,24 @@
 </p>
 
 <br />
+<!-- 
+<p>
+    <details>
+     <summary><strong>Github Stats</strong></summary>
+    <!--       
+[![Jose Saffie's github stats](https://github-readme-stats.JoseSaffie.vercel.app/api?username=JoseSaffie&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/JoseSaffie?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.JoseSaffie.vercel.app/api/top-langs/?username=JoseSaffie&layout=compact&langs_count=6&theme=blue-green)](https://github.com/JoseSaffie)
+    </details>
+
 
 <p>
     <details>
      <summary><strong>Github Stats</strong></summary>
-     
-[![Jose Saffie's github stats](https://github-readme-stats.JoseSaffie.vercel.app/api?username=JoseSaffie&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/JoseSaffie?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.JoseSaffie.vercel.app/api/top-langs/?username=JoseSaffie&layout=compact&langs_count=6&theme=blue-green)](https://github.com/JoseSaffie)
+
+[![Jose Saffie's github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=Jose Saffie&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/Jose Saffie?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=Jose Saffie&layout=compact&langs_count=6&theme=blue-green)](https://github.com/Jose Saffie)
     </details>
+
 </p>
+
 
 
 <!-- <p>
