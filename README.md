@@ -7,7 +7,7 @@
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank" rel="noopener noreferrer">José Saffie V.</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
-<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+<a href="https://github.com/JoseSaffie?tab=repositories"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
 - 🎓 I'm a undergraduate student enrolled at Universidad de Chile studying industrial civil engineering with a master in data science.
 - 👯 Looking to learn on projects that are using Python for data science.
@@ -15,6 +15,8 @@
 - ⚡ I love videogames, data science and chilling in rainy days
 - <img src="https://giphy.com/embed/3oEjHMD6oHHzeUh9qo" width="40">
 
+
+ ![Bandera de Chile]("https://giphy.com/embed/3oEjHMD6oHHzeUh9qo")
 
 #### Languages and Tools 
 <p>
@@ -87,7 +89,9 @@ linkedi | Twitter | insta | kaggle | tableau | dev | Telegram -->
 
 <!-- 
 ![build](https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/badge.svg) -->
+<!-- 
 ![GitHub last commit](https://github.com/JoseSaffie/JoseSaffie/blob/master/svg/last%20commit.svg)
+-->
 ![pv](https://pageview.vercel.app/?github_user=JoseSaffie)
 
 
