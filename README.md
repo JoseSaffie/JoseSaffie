@@ -9,10 +9,10 @@
  
 <a href="https://github.com/JoseSaffie?tab=repositories"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
-- 🎓 I'm a undergraduate student enrolled at Universidad de Chile studying industrial civil engineering with a master in data science.
+- 🎓 I'm a thesis student enrolled at Universidad de Chile studying industrial civil engineering with a master in data science.
 - 👯 Looking to learn on projects that are using Python for data science.
-- ⭐ 2023's Objective: improve my organization in general  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ I love videogames, data science and chilling in rainy days
+- ⭐ 2025's Objective: improve my organization and learn new tools for ds.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⚡ I love videogames, data science and chilling >.<
 
 <!-- <p>
 
